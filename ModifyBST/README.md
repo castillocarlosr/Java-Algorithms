@@ -38,9 +38,9 @@ Modified Binary Search Tree:
 
 ******************************************************************************************************
 
-![](../../data-structures-and-algorithms/assets/ModifyBST2.PNG?raw=true)
+![](../Assets/modifyBST.png?raw=true)
 
 ```
 Carlos Castillo
 ```
-Challenge started on August 12, 2019
+Challenge started on August 13, 2019

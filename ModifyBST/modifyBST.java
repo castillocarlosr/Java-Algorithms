@@ -46,7 +46,7 @@ class BSTModify {
 
 	public static void main(String[] args) 
 	{ 
-        System.out.println("Hello modified BST!");
+        System.out.println("Hello modified BST in JAVA!");
         System.out.println(" ");
 
         Node tree = new Node(5);
@@ -65,7 +65,7 @@ class BSTModify {
         System.out.println("      "+tree.leftChild.leftChild.value+"   "+tree.leftChild.rightChild.value+"  "+tree.rightChild.leftChild.value+"   "+tree.rightChild.rightChild.value);
 
         System.out.println("\n");
-        System.out.println("After modify on binary search tree");
+        System.out.println("After modify on binary search tree:");
 
         BSTModify bstModify = new BSTModify();
         bstModify.modifyBST(tree);
