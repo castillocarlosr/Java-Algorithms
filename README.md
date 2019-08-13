@@ -20,7 +20,12 @@ Data-Structures and Algorithms codede only in Java
 * Challenges using Visual Studio Code IDE.
 
 # Author
-* Carlos Castillop
+* Carlos Castillo
+
+## *********** Challenges **************************
+1. [Challenge: Is string a substring of another string](StringSubstring)
+
+2. [Challenge: Modify BST by adding all nodes greater than node](ModifyBST)
 
 ```
 Thanks for stopping by and stay classy Seattle.
