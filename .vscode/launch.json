@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Queue2Stack",
+            "request": "launch",
+            "mainClass": "Queue2Stack"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - queue2Stack",
             "request": "launch",
             "mainClass": "queue2Stack"
