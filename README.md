@@ -27,6 +27,8 @@ Data-Structures and Algorithms codede only in Java
 
 2. [Challenge: Modify BST by adding all nodes greater than node](ModifyBST)
 
+3. [Challenge: Standard create a Queue using 2 Stacks](Queue2Stacks)
+
 ```
 Thanks for stopping by and stay classy Seattle.
 ```
