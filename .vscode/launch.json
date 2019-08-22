@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RotateBy2Places",
+            "request": "launch",
+            "mainClass": "RotateBy2Places"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Queue2Stack",
             "request": "launch",
             "mainClass": "Queue2Stack"
