@@ -6,7 +6,7 @@ Data-Structures and Algorithms codede only in Java
 #### Code Challenges
 
 *  This is me breaking into Java.
-- 
+
 * I've looked at Java code many times but rarely got the chance to type in Java.  So this is me keeping my skills sharp by typing in Java.
 
 - I get asked technical questions in different languages I hardly touch but usually read.
