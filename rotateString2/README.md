@@ -9,3 +9,10 @@
 * Return a boolean.
 
 ******************************************************************************************************
+
+![](../Assets/string2Places.png?raw=true)
+
+```
+Carlos Castillo
+```
+Challenge started on August 22, 2019

@@ -6,9 +6,9 @@ Data-Structures and Algorithms codede only in Java
 #### Code Challenges
 
 *  This is me breaking into Java.
-
+&nbsp;
 * I've looked at Java code many times but rarely got the chance to type in Java.  So this is me keeping my skills sharp by typing in Java.
-
+&nbsp;
 - I get asked technical questions in different languages I hardly touch but usually read.
 - So this is me practicing in the languages I hardly use.
 - Expect PHP, Python, and Ruby to follow, as I get asked these questions as well.
@@ -28,6 +28,8 @@ Data-Structures and Algorithms codede only in Java
 2. [Challenge: Modify BST by adding all nodes greater than node](ModifyBST)
 
 3. [Challenge: Standard create a Queue using 2 Stacks](Queue2Stacks)
+
+4. [Challenge: Standard create a Queue using 2 Stacks](rotateString2)
 
 ```
 Thanks for stopping by and stay classy Seattle.
