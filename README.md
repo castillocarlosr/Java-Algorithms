@@ -29,7 +29,9 @@ Data-Structures and Algorithms codede only in Java
 
 3. [Challenge: Standard create a Queue using 2 Stacks](Queue2Stacks)
 
-4. [Challenge: Standard create a Queue using 2 Stacks](rotateString2)
+4. [Challenge: Rotate a string two places forward or backwards](rotateString2)
+
+5. [Challenge: Check if number is prime](CheckPrimality)
 
 ```
 Thanks for stopping by and stay classy Seattle.

@@ -14,7 +14,7 @@ class CheckPrimes{
         return true;
     }
 
-    public boolean primeUpIterate(int n){
+    public boolean primeSqrtIterate(int n){
         if(n<2)
         {
             return false;
@@ -55,22 +55,22 @@ class CheckPrimes{
         {
             System.out.println("false for Iterative.");
         }
-
-        if(checkPrimes.primeUpIterate(input11))
+//Below is iterate up through square root.
+        if(checkPrimes.primeSqrtIterate(input11))
         {
-            System.out.println("true for Iterative.");
+            System.out.println("    true for sqrt Iterate.");
         }
         else
         {
-            System.out.println("false for UpIterate.");
+            System.out.println("    false for sqrt Iterate.");
         }
-        if(checkPrimes.primeUpIterate(input22))
+        if(checkPrimes.primeSqrtIterate(input22))
         {
-            System.out.println("true for Iterative.");
+            System.out.println("    true for sqrt Iterate.");
         }
         else
         {
-            System.out.println("false for UpIterate.");
+            System.out.println("    false for sqrt Iterate.");
         }
     }
 }
