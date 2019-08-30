@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckPrimes",
+            "request": "launch",
+            "mainClass": "CheckPrimes"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RotateBy2Places",
             "request": "launch",
             "mainClass": "RotateBy2Places"
