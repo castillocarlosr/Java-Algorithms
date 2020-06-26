@@ -13,7 +13,7 @@ Data-Structures and Algorithms codede only in Java
 - So this is me practicing in the languages I hardly use.
 - Expect PHP, Python, and Ruby to follow, as I get asked these questions as well.
 
-- Note:  I mostly code in C# and sometimes in JavaScript.
+- Note:  I mostly code my [DS&A](https://github.com/castillocarlosr/data-structures-and-algorithms) in [C#](https://github.com/castillocarlosr/data-structures-and-algorithms) and sometimes in JavaScript.
 
 * This is a continuing repo for all  code challenges.
 
