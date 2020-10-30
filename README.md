@@ -37,3 +37,6 @@ Data-Structures and Algorithms codede only in Java
 Thanks for stopping by and stay classy Seattle.
 ```
 Last update June 26, 2020
+
+- Pending update October 31,2020
+- Currently employed in Java programming.  So more Java DD&A coming in the future.
